@@ -1,0 +1,115 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+body{
+    background-color: antiquewhite;
+}
+
+#container{
+    width: 1024px;
+    height: 1000px;
+    margin: 0 auto;
+    text-align: center;
+    align-items: center;
+    background-color: aquamarine;
+}
+
+button {
+    padding: 5px 10px;
+    border: none;
+    background: transparent;
+    border-radius: 3px;
+    box-sizing: border-box;
+    box-shadow: 2px 2px 4px black;
+}
+
+
+fieldset{
+    border: 5px solid aquamarine;
+    border-radius: 10px;
+    margin: 0px 50px 20px 50px;
+}
+
+
+/*Chaining section here*/
+
+#anic {
+    padding-top: 30px;
+    width: 100%;
+    height: 180px;
+    display: inline-block;
+    font-size: 20px;
+    background: linear-gradient(0deg, #0000004d, transparent);
+}
+
+
+
+#ani {
+    padding-top: 50px;
+    width: 100%;
+    height: 200px;
+    display: inline-block;
+    font-size: 25px;
+    background: linear-gradient(0deg, #0000004d, transparent);
+}
+
+#ani2 {
+    padding-top: 50px;
+    width: 100%;
+    height: 200px;
+    display: inline-block;
+    font-size: 25px;
+    background: linear-gradient(0deg, #01565ead, transparent);
+}
+
+#demo2{
+    width: 250px;
+    margin: 0 auto;
+    align-items: center;
+    text-align: center;
+    padding: 7px 0px;
+    background-color: rgb(38, 255, 38);
+    border: 2px solid rgb(2, 173, 2);
+    border-radius: 10px;
+    
+}
+
+/* Demo3 CallBack function */
+
+#ani3 {
+    padding-top: 50px;
+    width: 100%;
+    height: 200px;
+    display: inline-block;
+    font-size: 25px;
+    background: linear-gradient(0deg, rgb(2, 173, 2), transparent);
+}
+
+
+
+#demo3{
+    width: 360px;
+    margin: 0 auto;
+    align-items: center;
+    text-align: center;
+    padding: 7px 0px;
+
+    border-radius: 10px;
+    
+}
+
+
+
+/*Footer*/
+
+.footer {
+    background: #016a47;
+    height: 40px;
+    padding-top: 12px;
+    color: white;
+    font-weight: 700;
+    font-family: sans-serif;
+}
